@@ -1,0 +1,16 @@
+.post-body {
+    display: flex;
+}
+.post-header {
+    display: flex;
+    justify-content: space-between;
+}
+.post {
+    width: 27%;
+}
+body{
+    text-align: -webkit-center;
+}
+.post-footer{
+    text-align: left;
+}
